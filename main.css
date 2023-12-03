@@ -21,7 +21,7 @@ body{
 }
 input[type=checkbox]{
   accent-color: rgb(255, 255, 255);
-  /* mix-blend-mode: multiply; */
+   mix-blend-mode: multiply; 
 }
 .button {
   padding: 16/1.5px 42/1.5px;
